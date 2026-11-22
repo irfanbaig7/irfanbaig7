@@ -1,28 +1,127 @@
-<h1 align="center">Hi 👋, I'm Irfan BaigA</h1>
-<h3 align="center">Full Stack Developer | JavaScript | AI-Powered Applications | Building for the Web</h3>
+ <div align="center">
 
-- 🔭 I’m currently working on [SiteProof – Construction Management Platform](https://github.com/irfanbaig7/constructionSite)
+# Hi 👋, I'm Irfan Baig
 
-- 🌱 I’m currently learning **Agentic AI, LLM Integration, AI Automation**
+### Full Stack Developer | JavaScript | AI-Powered Applications
 
-- 👯 I’m looking to collaborate on [AI-Powered Web Applications](https://github.com/irfanbaig7)
+Building modern web applications, exploring Agentic AI, and turning ideas into working products.
 
-- 👨‍💻 All of my projects are available at [https://github.com/irfanbaig7](https://github.com/irfanbaig7)
+[![GitHub](https://img.shields.io/badge/GitHub- irfanbaig7-181717?style=for-the-badge&logo=github)](https://github.com/irfanbaig7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/irfanbaig735/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibaig9356@gmail.com)
 
-- 💬 Ask me about **JavaScript, Next.js, Full Stack Development, AI Tools**
+</div>
 
-- 📫 How to reach me **ibaig9356@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/irfan baig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="irfan baig" height="30" width="40" /></a>
+## 👨‍💻 About Me
+
+- 🔭 Currently building **[SiteProof](https://github.com/irfanbaig7/constructionSite)** – A Construction Management Platform.
+- 🌱 Exploring **Agentic AI, LLM Integration & AI Automation**.
+- 💻 Interested in building scalable full-stack and AI-powered applications.
+- 🤝 Open to collaborating on innovative web and AI projects.
+- 📫 Reach me at **ibaig9356@gmail.com**
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Frontend**
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+**Backend & Database**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=irfanbaig7&show_icons=true&locale=en&layout=compact" alt="irfanbaig7" /></p>
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma,redis" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=irfanbaig7&show_icons=true&locale=en" alt="irfanbaig7" /></p>
+**Tools & Platforms**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irfanbaig7&" alt="irfanbaig7" /></p>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,firebase" />
+</p>
+
+**AI & Automation**
+
+<p>
+<img src="https://img.shields.io/badge/LLM_Integration-412991?style=flat-square" />
+<img src="https://img.shields.io/badge/Agentic_AI-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/AI_Automation-0A84FF?style=flat-square" />
+<img src="https://img.shields.io/badge/OpenRouter-6467F2?style=flat-square" />
+</p>
+
+---
+
+## 🚀 Featured Project
+
+### 🏗️ SiteProof – Construction Management Platform
+
+A platform designed to help contractors manage construction projects and keep homeowners informed through transparent project updates.
+
+- Project management and progress tracking.
+- Homeowner access through project invitations.
+- Daily construction updates and photo proofs.
+- Material and budget tracking.
+
+**Tech:** Next.js · TypeScript · PostgreSQL · Prisma · Tailwind CSS
+
+[![View Repository](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github)](https://github.com/irfanbaig7/constructionSite)
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=irfanbaig7&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfanbaig7&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=irfanbaig7&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=irfanbaig7&theme=tokyonight" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=irfanbaig7&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+## 🌟 Profile Overview
+
+<div align="center">
+
+<img src="https://img.shields.io/github/repos/irfanbaig7?style=for-the-badge&logo=github&label=Public%20Repositories" />
+
+<img src="https://img.shields.io/github/followers/irfanbaig7?style=for-the-badge&logo=github&label=Followers" />
+
+<br/><br/>
+
+[![GitHub Profile](https://img.shields.io/badge/Explore_My_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/irfanbaig7?tab=repositories)
+
+</div>
+
+---
+
+<div align="center">
+
+### Thanks for visiting! 👋
+
+*Building. Learning. Experimenting. Repeating.*
+
+</div>
